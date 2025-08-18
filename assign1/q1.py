@@ -1,0 +1,5 @@
+print("Name: Karteek")
+print("Plot.No: 10-109-9")
+print("Po: Bridge Post")
+print("City: Vizag")
+print("Pin: 87875")
