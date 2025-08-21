@@ -1,2 +1,1 @@
-mylist=[10,'karteek','realshit']
-print(mylist[2])
+list=[24,54,23]
