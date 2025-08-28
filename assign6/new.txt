@@ -1,3 +1,31 @@
+(Python Programs using Dictionary, Set)
+August 28, 2025
+1. Write a Python program to create a dictionary of 3 countries and their capitals.
+Print each country with its capital.
+2. Create a dictionary ”name”: ”Alice”, ”age”: 22, ”city”: ”Delhi”. Write a program
+to print the values of ”name” and ”city”.
+3. Write a program to create a dictionary of a student with keys: ”name”, ”age”,
+”branch”. Update the ”age” to 21 and add a new key ”grade” with value ”A”.
+4. Create a dictionary of fruits with their prices. Write a program to delete one fruit
+from the dictionary and display the updated dictionary.
+5. Write a program to store details of a book (title, author, price). Iterate through
+the dictionary and print each key and value.
+6. Write a program to merge two dictionaries:
+d1 = {”a”: 10, ”b”: 20}
+d2 = {”c”: 30, ”d”: 40}
+Expected Output: {’a’: 10, ’b’: 20, ’c’: 30, ’d’: 40}
+7. Write a program to check if a value 200 exists in a dictionary. sampleDict = {’a’:
+100, ’b’: 200, ’c’: 300}
+8. Given a dictionary of product prices:
+prices = {”laptop”: 55000, ”phone”: 25000, ”tablet”: 18000}Write a program to
+find the product with the maximum price.
+9. Write a Python program that counts the frequency of each word in the string:
+”Python is fun and Python is powerful”. Store the result in a dictionary.
+10. Given a dictionary of roll numbers and names, write a program to invert it so that
+names become keys and roll numbers become values.
+students = {101: ”Amit”, 102: ”Riya”, 103: ”John”}
+11. Create a set {10, 20, 30}. Add 40 and 50. Remove 20.Print the final set.
+1
 12. Given two sets:
 A = {1, 2, 3, 4}
 B = {3, 4, 5, 6}
