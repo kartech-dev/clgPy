@@ -1,0 +1,11 @@
+#Write a program that reads a le and counts the number of words, characters, and lines in it.
+fo=open("notes.txt","r")
+data=fo.read()
+words=data.split()
+num_words=len(words)
+num_chars=len(data)
+num_lines=len(data.splitlines())
+print("Number of words:",num_words)
+print("Number of characters:",num_chars)
+print("Number of lines:",num_lines)
+fo.close()
